@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>This is version 1</h2>
-                <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; and the IP is &ldquo;<?php echo get_server_ip(); ?>&rdquo;</p>
+                <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo;</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
         </div>
